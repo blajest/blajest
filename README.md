@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joy Vukasu
 - 👀 I’m interested in Software Development, Web development, Web designing
-- 🌱 I’m currently learning python,CSS,HTML,Javascript
+- 🌱 I’m currently learning python,CSS,HTML,Javascript,React
 - 💞️ I’m looking to collaborate on  Web development, Web designing, frontend development
 - 📫 How to reach me joyvukasu@gmail.com
 - 😄 Pronouns: her/she
